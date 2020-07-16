@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27755" started-at="2020-04-30T14:22:39Z" finished-at="2020-04-30T14:23:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27755" started-at="2020-04-30T14:22:39Z" finished-at="2020-04-30T14:23:07Z">
+      <class name="SeleinumProgramms.RetrievingPageTitleWithoutGetTitle">
+        <test-method status="PASS" signature="GetTitle()[pri:0, instance:SeleinumProgramms.RetrievingPageTitleWithoutGetTitle@18be83e4]" name="GetTitle" duration-ms="27718" started-at="2020-04-30T19:52:39Z" finished-at="2020-04-30T19:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTitle -->
+      </class> <!-- SeleinumProgramms.RetrievingPageTitleWithoutGetTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
